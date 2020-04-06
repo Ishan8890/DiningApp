@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Eateries</string>
+    <string name="empty_field">Field is empty</string>
+    <string name="city">type city</string>
+    <string name="search">Search</string>
+    <string name="no_restaurant">Sorry, Couldn\'t find restaurant</string>
+    <string name="on_location">Turn on location</string>
+</resources>
